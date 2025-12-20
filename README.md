@@ -3,7 +3,7 @@
 <img src="https://github.com/karantalekar/karantalekar/blob/main/Software.webp?raw=true"
      width="400"
      align="right" 
-     style="border-radius: 12px;" />
+     style="border-radius: "12px";" />
 
 
 - 🔭 I’m currently working on [Retail Edge Management System](https://github.com/karantalekar/retailEdge_project)
