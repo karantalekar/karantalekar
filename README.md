@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karantalekar&show_icons=true&locale=en&theme=tokyonight" alt="karantalekar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karantalekar&&theme=tokyonight" alt="karantalekar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karantalekar&theme=tokyonight" alt="karantalekar" /></p>
