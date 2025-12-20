@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Talekar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<img src="https://github.com/karantalekar/karantalekar/blob/main/pngtree-software.png?raw=true" width="400px" align="right"/>
 
 - 🔭 I’m currently working on [Retail Edge Management System](https://github.com/karantalekar/retailEdge_project)
 
