@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img src="https://github.com/karantalekar/karantalekar/blob/main/Software.webp?raw=true"
      width="350"
-     align="right" 
+     align="right"
      style="border-radius: 12px;" />
-
 
 - 🔭 I’m currently working on [Retail Edge Management System](https://github.com/karantalekar/retailEdge_project)
 
