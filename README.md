@@ -5,9 +5,7 @@
      align="right"
      style="border-radius: 12px;" />
 
-- 🔭 I’m currently working on [Retail Edge Management System](https://github.com/karantalekar/retailEdge_project)
-
-- 🌱 I’m currently learning **Next.JS , MySQL , Python**
+- 🌱 I’m currently learning **Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://karantalekar.vercel.app/](https://karantalekar.vercel.app/)
 
