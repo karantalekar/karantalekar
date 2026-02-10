@@ -5,7 +5,6 @@
      align="right"
      style="border-radius: 12px;" />
 
-- 🌱 I’m currently learning **Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://karantalekar.vercel.app/](https://karantalekar.vercel.app/)
 
